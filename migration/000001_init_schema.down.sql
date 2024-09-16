@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS bid_review CASCADE;
+DROP TABLE IF EXISTS bid_history CASCADE;
+DROP TABLE IF EXISTS bid;
+DROP TABLE IF EXISTS tender_history;
+DROP TABLE IF EXISTS tender;
+-- DROP TABLE IF EXISTS organization_responsible;
+-- DROP TABLE IF EXISTS organization;
+-- DROP TABLE IF EXISTS employee;
